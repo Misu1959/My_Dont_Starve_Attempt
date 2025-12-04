@@ -16,7 +16,7 @@ public class InputManager : MonoBehaviour
     private void Awake()
     {
         instance = this;
-        inputActions = new PlayerInputActions(inputAsset);
+        inputActions = new PlayerInputActions();
         DisableAllMaps();
     }
 
