@@ -2,10 +2,10 @@
 1. Don't Starve is a survival game developed and published by Klei Entertainment.
 2. Don’t Starve is a wilderness survival game where players explore a harsh, procedurally-generated world filled with strange creatures, dangerous seasons, and scarce resources. To survive, players must gather materials, craft tools, manage hunger and sanity, and face increasingly difficult challenges as the world evolves.
 
-# Objectives
+# My try of re-creating Don't Starve 
+## Objectives
 The goal of the project is to understand the systems behind a survival game and implement them using clean, modular, maintainable code.
 
-# My try of re-creating Don't Starve 
 ## About
 1. A personal project where I attempt to recreate the core mechanics and feel Don't Starve entirely from scratch.  
 2. This project is not affiliated with Klei Entertainment and is intended purely for learning, experimentation, and educational purposes.
